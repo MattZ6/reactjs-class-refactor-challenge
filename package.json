@@ -1,9 +1,11 @@
 {
   "private": true,
   "name": "reactjs-class-refactor-challenge",
+  "description": "🔥 Código de resolução do desafio de reffatoração de class components, da trilha de React JS — Ignite",
   "version": "1.0.0",
   "repository": "https://github.com/MattZ6/reactjs-class-refactor-challenge",
   "bugs": "https://github.com/MattZ6/reactjs-class-refactor-challenge/issues",
+  "license": "MIT",
   "author": {
     "name": "Matheus Felipe Zanin",
     "email": "matt_z6@hotmail.com",
